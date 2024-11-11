@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Start my Master study at Princeton University! :tiger:
+Started my Master study at Princeton University! :tiger:
