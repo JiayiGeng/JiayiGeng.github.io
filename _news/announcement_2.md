@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://arxiv.org/abs/2410.21333">Language Models as Science Tutors</a> has been accepted by ICML 2024!
+Our paper <a href="https://arxiv.org/abs/2410.21333">Language Models as Science Tutors</a> has been accepted by ICML 2024!
