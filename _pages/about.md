@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a second year Computer Science master's student at Princeton University, advised by [Prof. Danqi Chen](https://www.cs.princeton.edu/~danqic/). During my master's, I also work closely with [Prof. Thomas L. Griffiths](https://cocosci.princeton.edu/tom/tom.php).
+I am a second year Computer Science master's student at Princeton University, advised by [Prof. Danqi Chen](https://www.cs.princeton.edu/~danqic/) and [Prof. Thomas L. Griffiths](https://cocosci.princeton.edu/tom/tom.php).
 
 My research goal is to explore and enable machines to beyond human intelligence. More specifically, I am interested in (1) drawing inspiration from cognitive psychology to understand the deep interconnection between machines and humans, particularly focusing on the interplay between memory and reasoning, and (2) designing appropriate algorithms and methods to push the limits of LLM deliberation.
 
