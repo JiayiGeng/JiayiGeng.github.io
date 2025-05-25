@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2024-10-07 16:11:00-0400
+title: ICLR 2025 Acceptance
+date: 2025-01-22 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-Our new preprint: <a href="https://arxiv.org/abs/2410.21333">Mind Your Step (by Step): Chain-of-Thought Can Reduce Performance on Tasks where Thinking Makes Humans Worse</a> is out!
+Our paper: <a href="https://arxiv.org/abs/2406.17055">Large Language Models Assume People are More Rational than We Really are</a> has been accepted by ICLR 2025!
