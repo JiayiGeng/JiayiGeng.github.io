@@ -22,5 +22,4 @@ I am a first year PhD student at the Language Technologies Institute at Carnegie
 
 My research explores how to build reliable machine intelligence that can advance toward and beyond human-level capabilities. I primarly focus on: (1) understanding and ensuring reliability in long-horizon interactions, (2) designing reliable agent memory systems that adaptively update with experience while preserving alignment, (3) enabling reliable multi-agent collaboration through effective coordination and communication mechanisms, and (4) advancing reliable AI scientists by establishing evaluation frameworks and deployment strategies for conducting trustworthy, autonomous research.
 
-
 Before CMU, I received my Master's degree at Princeton University, advised by [Prof. Danqi Chen](https://www.cs.princeton.edu/~danqic/) and [Prof. Thomas L. Griffiths](https://cocosci.princeton.edu/tom/tom.php), and my Bachelor's degree at McGill University, advised by [Prof. Xue (Steve) Liu](https://cs.mcgill.ca/~xueliu/site/intro.html), and [Prof. Eric D. Kolaczyk](https://sites.bu.edu/kolaczyk/).
