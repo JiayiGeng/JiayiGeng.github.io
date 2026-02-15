@@ -16,6 +16,7 @@ location = "Pittsburgh, PA"
 location_url = "https://maps.google.com/?q=Carnegie+Mellon+University"
 google_scholar = "https://scholar.google.com/citations?user=VHpgr5IAAAAJ"
 github = "https://github.com/JiayiGeng"
+twitter = "https://x.com/JiayiiGeng"
 
 [features]
 enable_likes = false
