@@ -1,0 +1,46 @@
+[site]
+title = "Jiayi Geng"
+description = "PhD student at the Language Technologies Institute, Carnegie Mellon University."
+favicon = "/favicon.png"
+last_updated = "February 2026"
+
+[author]
+name = "Jiayi Geng"
+title = "PhD Student"
+institution = "Carnegie Mellon University"
+avatar = "/bio.jpg"
+
+[social]
+email = "ogeng@andrew.cmu.edu"
+location = "Pittsburgh, PA"
+location_url = "https://maps.google.com/?q=Carnegie+Mellon+University"
+google_scholar = "https://scholar.google.com/citations?user=VHpgr5IAAAAJ"
+github = "https://github.com/JiayiGeng"
+
+[features]
+enable_likes = false
+enable_one_page_mode = false
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Teaching"
+type = "page"
+target = "teaching"
+href = "/teaching"
+
+[[navigation]]
+title = "Services"
+type = "page"
+target = "services"
+href = "/services"

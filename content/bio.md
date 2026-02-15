@@ -1,0 +1,5 @@
+I am a first year PhD student at the Language Technologies Institute at **[Carnegie Mellon University](https://www.cmu.edu/)**, advised by [**Prof. Graham Neubig**](https://phontron.com).
+
+My research explores building reliable and capable AI agents. I primarily focus on: 1) agents that can reliably adapt and evolve across long-horizon interactions, 2) multi-agent systems where agents with diverse skills and experiences collaborate effectively, and 3) evaluating agents for reliable autonomous scientific discovery.
+
+Before CMU, I received my Master's degree at **[Princeton University](https://www.princeton.edu/)**, advised by [**Prof. Danqi Chen**](https://www.cs.princeton.edu/~danqic/) and [**Prof. Thomas L. Griffiths**](https://cocosci.princeton.edu/tom/index.php), and my Bachelor's degree at **[McGill University](https://www.mcgill.ca/)**, advised by [**Prof. Xue (Steve) Liu**](https://www.cs.mcgill.ca/~xueliu/site/intro.html) and [**Prof. Eric D. Kolaczyk**](https://www.mcgill.ca/mathstat/eric-d-kolaczyk).
