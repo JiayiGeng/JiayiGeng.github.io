@@ -14,7 +14,7 @@ interface NewsProps {
 
 function renderMarkdownContent(text: string) {
     // Split on both image syntax ![alt](src) and link syntax [text](url)
-    const parts = text.split(/(!\[[^\]]*\]\([^)]+\)|\[[^\]]+\]\([^)]+\))/g);
+    const parts = text.split(/(!\[[^\]]*\]\([^)]+\)|\[[^\]]+\]\([^)]+\)|\*[^*]+\*)/g);
     return parts.map((part, i) => {
         // Check for image: ![alt](src)
         const imgMatch = part.match(/^!\[([^\]]*)\]\(([^)]+)\)$/);
@@ -37,6 +37,11 @@ function renderMarkdownContent(text: string) {
                 </a>
             );
         }
+        // Check for italic: *text*
+        const italicMatch = part.match(/^\*([^*]+)\*$/);
+        if (italicMatch) {
+            return <span key={i} className="text-accent font-semibold">{italicMatch[1]}</span>;
+        }
         return <span key={i}>{part}</span>;
     });
 }
@@ -49,7 +54,7 @@ export default function News({ items, title = 'News' }: NewsProps) {
             transition={{ duration: 0.6, delay: 0.5 }}
         >
             <h2 className="text-[1.65rem] font-bold text-primary mb-4">{title}</h2>
-            <div className="space-y-3">
+            <div className="max-h-[280px] overflow-y-auto space-y-3 pr-2">
                 {items.map((item, index) => (
                     <div key={index} className="flex items-start space-x-3">
                         <span className="text-sm text-neutral-500 mt-0.5 w-20 flex-shrink-0">{item.date}</span>

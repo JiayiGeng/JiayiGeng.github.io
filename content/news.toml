@@ -4,11 +4,11 @@ content = "New preprint: [Effective Strategies for Asynchronous Software Enginee
 
 [[news]]
 date = "2026-03"
-content = "Gave a talk on *Evaluating AI Agent for Mechanism Discovery* at the workshop [AI for Interpretable Model Discovery in Neuroscience](https://www.cosyne.org/) at COSYNE 2026."
+content = "Gave a talk on *Evaluating AI Agent for Mechanism Discovery* at the workshop AI for Interpretable Model Discovery in Neuroscience at [COSYNE 2026](https://www.cosyne.org/)."
 
 [[news]]
 date = "2026-03"
-content = "Our work on [LLM belief drift](https://arxiv.org/pdf/2511.01805) was featured on AIhub: [The Malleable Mind: Context Accumulation Drives LLMs' Belief Drift](https://aihub.org/2026/03/09/the-malleable-mind-context-accumulation-drives-llms-belief-drift/)."
+content = "Our work on [Accumulating Context Changes the Beliefs of Language Models](https://arxiv.org/pdf/2511.01805) was featured on AIhub: [The Malleable Mind: Context Accumulation Drives LLMs' Belief Drift](https://aihub.org/2026/03/09/the-malleable-mind-context-accumulation-drives-llms-belief-drift/)."
 
 [[news]]
 date = "2025-11"
