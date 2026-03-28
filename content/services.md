@@ -1,3 +1,9 @@
+**NeurIPS 2026** &nbsp; Main conference reviewer
+
+**COLM 2026** &nbsp; Main conference reviewer
+
+**CAIS 2026** &nbsp; Main conference reviewer
+
 **ICML 2026** &nbsp; Main conference reviewer
 
 **CMU AI For Science Workshop 2025** &nbsp; Co-organizer
