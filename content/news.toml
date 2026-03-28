@@ -1,4 +1,16 @@
 [[news]]
+date = "2026-03"
+content = "New preprint: [Effective Strategies for Asynchronous Software Engineering Agents](https://arxiv.org/abs/2603.21489) is now available on arXiv!"
+
+[[news]]
+date = "2026-03"
+content = "Gave a talk on *Evaluating AI Agent for Mechanism Discovery* at the workshop [AI for Interpretable Model Discovery in Neuroscience](https://www.cosyne.org/) at COSYNE 2026."
+
+[[news]]
+date = "2026-03"
+content = "Our work on [LLM belief drift](https://arxiv.org/pdf/2511.01805) was featured on AIhub: [The Malleable Mind: Context Accumulation Drives LLMs' Belief Drift](https://aihub.org/2026/03/09/the-malleable-mind-context-accumulation-drives-llms-belief-drift/)."
+
+[[news]]
 date = "2025-11"
 content = "Our paper [Accumulating Context Changes the Beliefs of Language Models](https://arxiv.org/abs/2511.01805) was featured by [Science](https://www.science.org/content/article/scienceadviser-it-s-surprisingly-easy-change-language-model-s-mind)![Science](/icons/science.png)!"
 
