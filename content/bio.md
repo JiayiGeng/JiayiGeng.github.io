@@ -1,4 +1,4 @@
-I am a first year PhD student at the Language Technologies Institute at **[Carnegie Mellon University](https://www.cmu.edu/)**, advised by [**Prof. Graham Neubig**](https://phontron.com).
+I am a PhD student at the Language Technologies Institute at **[Carnegie Mellon University](https://www.cmu.edu/)**, advised by [**Prof. Graham Neubig**](https://phontron.com).
 
 My research explores building reliable and capable AI agents. I primarily focus on: 1) agents that can reliably adapt and evolve across long-horizon interactions, 2) multi-agent systems where agents with diverse skills and experiences collaborate effectively, and 3) evaluating agents for reliable autonomous scientific discovery.
 
