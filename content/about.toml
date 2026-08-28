@@ -3,9 +3,9 @@ title = "About"
 
 [profile]
 research_interests = [
+  "AI for Science",
   "Reliable Agents",
-  "Multi-Agent Collaboration",
-  "AI for Science"
+  "Multi-Agent Collaboration"
 ]
 
 [[sections]]
