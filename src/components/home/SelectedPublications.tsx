@@ -62,6 +62,11 @@ export default function SelectedPublications({ publications, title = 'Selected P
                                     arXiv
                                 </a>
                             )}
+                            {pub.code && (
+                                <a href={pub.code} target="_blank" rel="noopener noreferrer" title="View code" className="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-neutral-100 dark:bg-neutral-800 text-neutral-700 dark:text-neutral-300 hover:bg-accent hover:text-white transition-colors">
+                                    Code
+                                </a>
+                            )}
                         </div>
                         {pub.description && (
                             <p className="text-sm text-neutral-500 dark:text-neutral-500 line-clamp-2">

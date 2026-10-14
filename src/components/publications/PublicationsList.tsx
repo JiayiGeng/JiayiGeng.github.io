@@ -208,7 +208,7 @@ export default function PublicationsList({ config, publications, embedded = fals
                                                 src={`/papers/${pub.preview}`}
                                                 alt={pub.title}
                                                 fill
-                                                className="object-cover"
+                                                className="object-contain"
                                                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                                             />
                                         </div>
@@ -242,7 +242,7 @@ export default function PublicationsList({ config, publications, embedded = fals
                                     )}
 
                                     <div className="flex flex-wrap gap-2 mt-auto">
-                                        {pub.url && pub.url.includes('arxiv') && (
+                                        {pub.url && (
                                             <a
                                                 href={pub.url}
                                                 target="_blank"
@@ -250,7 +250,7 @@ export default function PublicationsList({ config, publications, embedded = fals
                                                 className="inline-flex items-center px-3 py-1 rounded-md text-xs font-medium bg-red-50 dark:bg-red-900/20 text-red-700 dark:text-red-400 hover:bg-red-100 dark:hover:bg-red-900/40 transition-colors"
                                             >
                                                 <ArrowTopRightOnSquareIcon className="h-3 w-3 mr-1.5" />
-                                                arXiv
+                                                {pub.url.includes('arxiv.org') ? 'arXiv' : pub.url.includes('ssrn.com') ? 'SSRN' : 'Paper'}
                                             </a>
                                         )}
                                         {pub.doi && (

@@ -1,4 +1,8 @@
 [[news]]
+date = "2026-10"
+content = "We release [EurekaBench 1.0](https://arxiv.org/abs/2610.00492)![EurekaBench](/icons/eurekabench.png), a benchmark evaluating whether AI scientist agents can discover new scientific insights."
+
+[[news]]
 date = "2026-03"
 content = "New preprint: [Effective Strategies for Asynchronous Software Engineering Agents](https://arxiv.org/abs/2603.21489) is now available on arXiv!"
 
